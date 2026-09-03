@@ -51,3 +51,4 @@ You can find your Station ID and Station Password on the station detail page
 
 
 After saving, your station should start sending data automatically. The first update may take a while — in some cases, up to an hour before the station becomes active and starts showing live measurements on Windy.
+Good luck!
